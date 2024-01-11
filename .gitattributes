@@ -1,0 +1,4 @@
+.gitignore merge=ours
+* text eol=lf
+*.png binary
+*.webp binary

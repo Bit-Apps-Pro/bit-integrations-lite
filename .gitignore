@@ -1,0 +1,9 @@
+composer.lock
+/vendor/*
+locale.pot
+vendor/
+languages/
+.vscode/settings.json
+.idea
+node_modules
+build-hash.txt
